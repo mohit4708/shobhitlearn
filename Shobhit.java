@@ -6,5 +6,8 @@ public class Shobhit {
             {
                  System.out.println("Wednesday");
             }
+
+
+	System.out.println("monday");
     }
 }
